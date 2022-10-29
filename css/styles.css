@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+    
+    line-height: 1.5;
+}
+
+.upper-banner{
+    padding: 3% 15%;
+}
+
+
+/* Home section */
+
+#Home{
+    background-color: #333C83;
+    color: wheat;
+}
+
+/* navbar section */
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+    font-size: 2.5rem;
+}
+
+.nav-item{
+    padding: 0 15px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+
+/* intro section */
+
+.big-img{
+    height: 90%;
+    border-radius: 100%;
+}
+
+.hire-btn{
+    margin: 15% 0;
+}
+
+
+
+/* Services Section */
+
+#Services{
+    background-color: #F24A72;
+    color: wheat;
+}
+
+.Services-Container{
+    padding: 3% 10%;
+}
+
+.service-icon{
+    width: 2rem;;
+}
+
+
+
+.second-service{
+    padding: 5%;
+    text-align: right;
+}
+
+.service-content{
+    padding: 3%;
+}
+
+
+/* About Section */
+
+#About{
+    background-color: #FDAF75;
+    color: rgba(53, 53, 53, 0.842);
+    text-align: center;
+    padding: 0 5% 3%;
+}
+
+.About-Title{
+    padding: 8% 0;
+    font-size: 5rem;
+}
+
+.About-banner{
+    background-color: #333C83;
+    margin: 10px;
+    border-radius: 8%;
+    color: rgb(202, 202, 202);
+}
+
+.About-heading{
+    margin: 8%;
+    padding: 15% 0;
+    font-size: 2rem;
+}
+
+.About-des{
+    padding: 3%;
+    line-height: 2;
+    font-size: 1.3rem;
+    color: rgba(202, 202, 202, 0.707);
+}
+
+
+/* contact section */
+
+#Contact{
+    background-color: #EAEA7F;
+    color: rgba(53, 53, 53, 0.842);
+    text-align: justify;
+    
+}
+
+
+.social{
+    color: rgba(53, 53, 53, 0.842);
+    margin-bottom: 2rem;
+}
+
+.social:hover{
+    color: #F24A72;
+}
+
+.right-align{
+    text-align: right;
+}
